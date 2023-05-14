@@ -72,4 +72,4 @@ python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'
  
 ## Authors
 - Michael Anokwulu
-- Lydiah
+- Lydiah Kiboi
